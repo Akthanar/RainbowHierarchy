@@ -3,7 +3,7 @@
 `Guida all'installazione in fondo` - `Installation guide at the bottom`
 #
 
-`[Work in progress]`
+`[Work in progress: download available soon]`
 ```
 RainbowHierarchy è un tool che rende più colorata la hierarchy
 e più comprensibile la gerarchia degli oggetti.
