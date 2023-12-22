@@ -32,6 +32,8 @@ All colors are customizable (except for features that are not yet stable).
 Suggestions on how to improve existing features, what else to add, and reporting any bugs are welcome!
 ```
 
+![image](https://github.com/Akthanar/RainbowHierarchy/assets/60467161/4e5296c5-86ce-40be-9a13-3227b0288a6a)
+
 ![image](https://github.com/Akthanar/RainbowHierarchy/assets/60467161/ad68b22a-cd26-4912-8953-c6dceb1fb64e)
 
 
