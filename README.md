@@ -35,9 +35,14 @@ Suggestions on how to improve existing features, what else to add, and reporting
 ![image](https://github.com/Akthanar/RainbowHierarchy/assets/60467161/ad68b22a-cd26-4912-8953-c6dceb1fb64e)
 
 
-Initialize to generate settings file:
+1) Download "`RainbowHierarchy.dll`"
+   or you can also clone repo directly in your project
+
+2) Initialize to generate settings file:
+
 ![Screenshot 2023-12-22 005702](https://github.com/Akthanar/RainbowHierarchy/assets/60467161/b08b80fe-4460-49a0-8a53-f21dae3ee616)
 
-Settings file:
+3) Settings file:
+
 ![image](https://github.com/Akthanar/RainbowHierarchy/assets/60467161/6a3ab16c-6fbe-4d55-9662-f7b5ecf95539)
 
