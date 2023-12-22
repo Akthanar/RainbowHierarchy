@@ -1,9 +1,9 @@
-# RainbowHierarchy
+# RainbowHierarchy 0.0.1
 
 `Guida all'installazione in fondo` - `Installation guide at the bottom`
 #
 
-
+`[Work in progress]`
 ```
 RainbowHierarchy è un tool che rende più colorata la hierarchy
 e più comprensibile la gerarchia degli oggetti.
